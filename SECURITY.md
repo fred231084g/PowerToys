@@ -1,6 +1,6 @@
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.2 BLOCK -->
 
-## Security
+## Sicurezza
 
 Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [many more](https://opensource.microsoft.com/).
 
@@ -20,17 +20,17 @@ Please include the requested information listed below (as much as you can provid
 
   * Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
   * Full paths of source file(s) related to the manifestation of the issue
-  * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
-  * Step-by-step instructions to reproduce the issue
+  * La posizione del codice sorgente interessato (tag/ramo/commit o URL diretto)
+
+  * Istruzioni dettagliate per riprodurre il problema
   * Proof-of-concept or exploit code (if possible)
   * Impact of the issue, including how an attacker might exploit the issue
 
 This information will help us triage your report more quickly.
 
-If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more details about our active programs.
+Se stai segnalando per una taglia di bug, rapporti più completi possono contribuire a un premio di taglia più alto. Visita la nostra pagina [Microsoft Bug Bounty Program] (https://microsoft.com/msrc/bounty) per maggiori dettagli sui nostri programmi attivi.
 
-## Preferred Languages
+## Lingue preferite
 
 We prefer all communications to be in English.
 
